@@ -1,0 +1,12 @@
+Package: ScanTools
+Title: What the Package Does (one line, title case)
+Version: 0.10
+Author: Kirt Onthank <Kirt.Onthank@wallawalla.edu>
+Maintainer: Kirt Onthank <Kirt.Onthank@wallawalla.edu>
+Description: What the package does (one paragraph).
+Depends:
+    stringdist,
+    xlsx
+License: Creative Commons
+LazyData: true
+RoxygenNote: 6.1.1
