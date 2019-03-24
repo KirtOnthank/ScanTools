@@ -1,7 +1,6 @@
 Package: ScanTools
-Title: Analysis of ScanTron multiple choice exams
-Version: 0.11
-Date: March 23, 2019
+Title: What the Package Does (one line, title case)
+Version: 0.10
 Author: Kirt Onthank <Kirt.Onthank@wallawalla.edu>
 Maintainer: Kirt Onthank <Kirt.Onthank@wallawalla.edu>
 Description: What the package does (one paragraph).
